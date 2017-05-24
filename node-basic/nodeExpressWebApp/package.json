@@ -1,0 +1,14 @@
+{
+  "name": "node-web-app",
+  "version": "1.0.0",
+  "description": "\"This is my first Project\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Djspy",
+  "license": "ISC",
+  "dependencies": {
+  "express": "^4.15.3"
+  }
+}
